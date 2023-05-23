@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = back_end_crud
+build_property.ProjectDir = C:\EstudosProgramação\puc\back\pmv-sint-2023-1-e3-proj-back-t1-time4-estilo-livre\src\back-end-crud\

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<back_end_crud.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+    <a asp-action="Create">Criar novo cadastro</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpCode)
+            </th>         
+            <th>
+                @Html.DisplayNameFor(model => model.OfficeLocation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpCode)
+            </td>          
+            <td>
+                @Html.DisplayFor(modelItem => item.OfficeLocation)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.clienteId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.clienteId">Alterar</a> |
+                <a asp-action="Delete" asp-route-id="@item.clienteId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
