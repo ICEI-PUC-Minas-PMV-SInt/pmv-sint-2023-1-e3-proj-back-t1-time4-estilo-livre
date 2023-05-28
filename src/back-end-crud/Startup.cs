@@ -26,7 +26,9 @@ namespace back_end_crud
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
             services.AddDbContext<UsuariosContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
-        }
+            services.AddDbContext<UsuariosContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+             }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

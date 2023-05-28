@@ -13,9 +13,14 @@ namespace back_end_crud.Models
         [Key]
         public int Email { get; set; }
 
+        [Column(TypeName = "nvarchar(250)")]      
+        [DisplayName("Email")]
+
+        public string EmailUsuario { get; set; }
+
         [Column(TypeName = "nvarchar(250)")]
         [Required(ErrorMessage = "Este campo é de preenchimento obrigatório")]
-        [DisplayName("Email")]
+        [DisplayName("Email usuário")]
         public string Senha { get; set; }
 
         [Column(TypeName = "varchar(50)")]
