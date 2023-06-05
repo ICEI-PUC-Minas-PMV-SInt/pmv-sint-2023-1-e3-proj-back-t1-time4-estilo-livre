@@ -41,6 +41,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/16-Produzir história de usuário.md"> Produzir história de usuário para especificação do projeto</a></li>
 <li><a href="docs/17-Planejar testes de software de funcionalidade do back-end.md"> Planejar testes de software de funcionalidade do back-end</a></li>
 <li><a href="docs/18-categorizar-requisitos-funcionais.md"> Categorizar requisitos funcionais e não funcionais derivados de histórias de usuários:</a></li>
+<li><a href="docs/18-categorizar-requisitos-funcionais.md"> Diagrama do back-end:</a></li>
 </ol>
 </ol>
 # Código
