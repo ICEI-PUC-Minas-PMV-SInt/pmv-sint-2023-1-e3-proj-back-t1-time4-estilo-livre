@@ -37,6 +37,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 <li><a href="docs/14-Diagrama-back-end.md"> Diagrama do back-end:</a></li>
+ <li><a href="docs/15-fluxo-navegacao.md"> Elaborar o diagrama de fluxo de navegação da aplicação web:</a></li>
 </ol>
 </ol>
 # Código
