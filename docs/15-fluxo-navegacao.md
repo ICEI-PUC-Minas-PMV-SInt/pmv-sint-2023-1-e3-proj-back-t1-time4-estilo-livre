@@ -62,5 +62,5 @@
 |   (Página Principal)   |
 +------------------------+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time4-estilo-livre/assets/80776887/d3a384b2-6708-4473-b919-4e15ff18a7f2)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time4-estilo-livre/assets/80776887/f6303f26-273c-407e-9cda-4f145de1c19e)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time4-estilo-livre/assets/80776887/762d4708-9b34-4ef9-b599-5061b84f6ec3)
 
