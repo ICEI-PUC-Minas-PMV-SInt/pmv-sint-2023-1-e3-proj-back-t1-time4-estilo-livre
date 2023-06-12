@@ -40,7 +40,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
  <li><a href="docs/15-fluxo-navegacao.md"> Elaborar o diagrama de fluxo de navegação da aplicação web:</a></li>
  <li><a href="docs/16-wireframe.md"> Elaborar wireframe:</a></li>
-  <li><a href="docs/17-diagrama-MER.md"> Elaborar diagrama MER:</a></li>
+ <li><a href="docs/17-diagrama-MER.md"> Elaborar diagrama MER:</a></li>
+ <li><a href="docs/18-planejamento-teste-usabilidade.md"> Planejar testes de usabilidade de software na aplicação.</a></li>
 </ol>
 </ol>
 # Código
