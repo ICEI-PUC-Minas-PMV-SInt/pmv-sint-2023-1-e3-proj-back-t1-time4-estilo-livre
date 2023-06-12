@@ -42,6 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
  <li><a href="docs/16-wireframe.md"> Elaborar wireframe:</a></li>
  <li><a href="docs/17-diagrama-MER.md"> Elaborar diagrama MER:</a></li>
  <li><a href="docs/18-planejamento-teste-usabilidade.md"> Planejar testes de usabilidade de software na aplicação.</a></li>
+  <li><a href="docs/19-avaliar-framework.md"> Avaliar como os frameworks utilizados contribuíram para o desenvolvimento da aplicação..</a></li>
 </ol>
 </ol>
 # Código
