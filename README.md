@@ -6,7 +6,7 @@
 
 `Eixo 3`
 
-Estilo livre é uma loja virtual voltada para o público jovem, que tem como objetivo democratizar o acesso à moda fashion para o grande público do mercado. Em um cenário cada vez mais competitivo, onde grandes lojas já possuem um e-commerce consolidado, a Fifash aposta na interação com seus usuários como um diferencial. Através de um site moderno e intuitivo, a loja busca proporcionar uma experiência de compra única, tornando-se uma opção atrativa para aqueles que buscam se vestir bem e acompanhar as últimas tendências da moda.
+Estilo livre é uma loja virtual voltada para o público jovem, que tem como objetivo democratizar o acesso à moda fashion para o grande público do mercado. Em um cenário cada vez mais competitivo, onde grandes lojas já possuem um e-commerce consolidado, a Estilo livre aposta na interação com seus usuários como um diferencial. Através de um site moderno e intuitivo, a loja busca proporcionar uma experiência de compra única, tornando-se uma opção atrativa para aqueles que buscam se vestir bem e acompanhar as últimas tendências da moda.
 
 ## Integrantes
 
