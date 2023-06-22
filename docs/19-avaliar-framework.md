@@ -1,0 +1,7 @@
+Utilizei o Entity Framework juntamente com o framework ASP.NET para implementar a camada de acesso a dados e a estrutura MVC da minha aplicação. Agora, chegou o momento de avaliar como esses frameworks contribuíram para o desenvolvimento do meu trabalho. A seguir, descreverei os pontos que considerei ao fazer essa avaliação.
+
+Primeiramente, gostaria de ressaltar a produtividade que obtive ao utilizar o Entity Framework. Através dele, pude simplificar a camada de acesso a dados, reduzindo consideravelmente a quantidade de código necessário para realizar operações de CRUD e consultas complexas. Isso permitiu que eu me concentrasse mais nas funcionalidades da minha aplicação, acelerando o desenvolvimento.
+
+Em relação à qualidade do código, os frameworks utilizados foram de grande auxílio. O Entity Framework, em particular, facilitou a criação de um modelo de dados consistente e estruturado, seguindo boas práticas de desenvolvimento. Com isso, obtive um código mais organizado e de fácil manutenção, o que será importante para futuras atualizações e melhorias.
+
+Outro ponto relevante é a performance da aplicação. Graças ao Entity Framework, pude aproveitar os recursos de otimização de consultas e cache, melhorando a velocidade de execução das operações de acesso a dados. Isso resultou em uma aplicação mais responsiva e eficiente, proporcionando uma melhor experiência para os usuários.
